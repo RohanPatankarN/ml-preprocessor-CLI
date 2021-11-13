@@ -2,7 +2,7 @@
 
 The CLI made to preprocess the database and save your **time**:clock1:
 
-## Gist
+## List
 
 - Given the database, the CLI provides various options to preprocess the data. 
 - Options:
@@ -16,23 +16,24 @@ The CLI made to preprocess the database and save your **time**:clock1:
 
 - [x] Implement try-catch
 - [x] Handling case in the input
-- [x] Adding Emoji's
-- [ ] Implementing graph functions for Analysis
+- [x] Adding Emojis
+- [x] Implementing graph functions for Analysis
 - [x] Adding Comments
 
 ## Run
 
-- Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
+- Clone this Repository: `git clone https://github.com/rohan926/ML-Preprocessor-CLI.git`
 - `cd ML-Preprocessor-CLI/`
+- if this ☝️ doesnt work then download zip file and give correct path and then try to implement
 - `pip3 install -r requirements.txt`
 - Now run, python3 `main.py` [Dataset's Path]
-- Ex: `python3 main.py dataset.csv`
+- Ex: `python3 main.py datasets.csv` i have already 2 datasets present in this file
 - Then you will see the below home screen.
 
 ## :camera: Screenshots
 
 <p align="center">
-    <img alt="Home screen" src="./screenshots/homeScreen.png" width="80%"/>
+    <img alt="Home Screen" src="C:\Users\U\Pictures\pic.PNG" width="80%"/>
 </p>
 
 ## Future Scope
@@ -41,4 +42,4 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - Implement Undo and Redo for the Database.
 - Implement other preprocessing steps.
 
-#### If you have any questions, just let me know [here.](mailto:utkryuk@gmail.com)
+#### If you have any questions, just let me know [here.](mailto:rohanpatankar926@gmail.com)
