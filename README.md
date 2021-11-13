@@ -22,7 +22,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 
 ## Run
 
-- Clone this Repository: `git clone https://github.com/rohan926/ML-Preprocessor-CLI.git`
+- Clone this Repository: `git clone https://github.com/rohan926/ml-reprocessor-mini-project.git`
 - `cd ML-Preprocessor-CLI/`
 - if this ☝️ doesnt work then download zip file and give correct path and then try to implement
 - `pip3 install -r requirements.txt`
@@ -33,7 +33,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 ## :camera: Screenshots
 
 <p align="center">
-    <img alt="Home Screen" src="C:\Users\U\Pictures\pic.PNG" width="80%"/>
+    <img alt="Home Screen" src="pic.PNG" width="80%"/>
 </p>
 
 ## Future Scope
