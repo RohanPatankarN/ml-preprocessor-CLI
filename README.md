@@ -33,7 +33,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 ## :camera: Screenshots
 
 <p align="center">
-    <img alt="Home Screen" src="rohan926/ml-preprocessor-mini-project/pic.PNG" width="80%"/>
+    <img alt="Home Screen" src="rohan926/ml-preprocessor-mini-project/pic.png" width="80%"/>
 </p>
 
 ## Future Scope
